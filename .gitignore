@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# django stuff
+media/
+static/
+
 # C extensions
 *.so
 
